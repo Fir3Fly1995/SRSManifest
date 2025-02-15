@@ -1,9 +1,9 @@
-2025-02-15 20:26:26
+2025-02-15 20:37:01
 launcher.py 2025-02-15 20:24:05
 launcher.spec 2025-02-15 20:24:18
 SRSLogo.ico 2025-02-15 15:28:16
-Standalone_Updater.py 2025-02-15 20:12:31
-standalone_updater.spec 2025-02-15 20:12:38
+Standalone_Updater.py 2025-02-15 20:32:33
+standalone_updater.spec 2025-02-15 20:32:43
 updater.py 2025-02-15 16:52:56
 Verifier.py 2025-02-15 15:28:16
 .venv\.gitignore 2025-02-14 20:16:54
@@ -4890,15 +4890,15 @@ build\launcher\localpycs\pyimod02_importers.pyc 2025-02-15 15:28:16
 build\launcher\localpycs\pyimod03_ctypes.pyc 2025-02-15 15:28:16
 build\launcher\localpycs\pyimod04_pywin32.pyc 2025-02-15 15:28:16
 build\launcher\localpycs\struct.pyc 2025-02-15 15:28:16
-build\standalone_updater\Analysis-00.toc 2025-02-15 20:12:47
-build\standalone_updater\base_library.zip 2025-02-15 20:12:46
-build\standalone_updater\EXE-00.toc 2025-02-15 20:13:26
-build\standalone_updater\PKG-00.toc 2025-02-15 20:12:49
+build\standalone_updater\Analysis-00.toc 2025-02-15 20:32:52
+build\standalone_updater\base_library.zip 2025-02-15 20:32:51
+build\standalone_updater\EXE-00.toc 2025-02-15 20:33:10
+build\standalone_updater\PKG-00.toc 2025-02-15 20:32:54
 build\standalone_updater\PYZ-00.pyz 2025-02-15 19:55:24
 build\standalone_updater\PYZ-00.toc 2025-02-15 19:55:24
-build\standalone_updater\standalone_updater.pkg 2025-02-15 20:12:49
-build\standalone_updater\warn-standalone_updater.txt 2025-02-15 20:12:47
-build\standalone_updater\xref-standalone_updater.html 2025-02-15 20:12:47
+build\standalone_updater\standalone_updater.pkg 2025-02-15 20:32:54
+build\standalone_updater\warn-standalone_updater.txt 2025-02-15 20:32:52
+build\standalone_updater\xref-standalone_updater.html 2025-02-15 20:32:52
 build\standalone_updater\localpycs\pyimod01_archive.pyc 2025-02-15 16:52:41
 build\standalone_updater\localpycs\pyimod02_importers.pyc 2025-02-15 16:52:41
 build\standalone_updater\localpycs\pyimod03_ctypes.pyc 2025-02-15 16:52:41
@@ -4906,7 +4906,7 @@ build\standalone_updater\localpycs\pyimod04_pywin32.pyc 2025-02-15 16:52:41
 build\standalone_updater\localpycs\struct.pyc 2025-02-15 16:52:41
 dist\launcher.exe 2025-02-15 20:24:46
 dist\SRSBotInstaller.iss 2025-02-15 17:47:09
-dist\standalone_updater.exe 2025-02-15 20:13:26
+dist\standalone_updater.exe 2025-02-15 20:33:10
 Licencing & Instructions\GNU-AGPL Licence.txt 2025-02-15 15:28:10
 Licencing & Instructions\Instructions.txt 2025-02-15 15:28:10
 Licencing & Instructions\readme.txt 2025-02-15 15:28:10
