@@ -15,6 +15,7 @@ def generate_manifest(directory, manifest_path):
             relative_path = os.path.relpath(file_path, directory)
             last_modified_time = datetime.fromtimestamp(os.path.getmtime(file_path)).strftime("%Y-%m-%d %H:%M:%S")
             manifest_lines.append(f"{relative_path} {last_modified_time}")
+            print(f"File: {relative_path}, Last Modified: {last_modified_time}")
     
     # Write the manifest file
     with open(manifest_path, "w") as manifest_file:
