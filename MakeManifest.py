@@ -22,6 +22,7 @@ def generate_manifest(directory, manifest_path):
         manifest_file.write("\n".join(manifest_lines))
     
     print(f"Manifest file generated at {manifest_path}")
+    print(f"Manifest content:\n{'\n'.join(manifest_lines)}")
 
 # Directory to scan for updated files
 directory_to_scan = "C:/Users/Alex Edwards/Documents/GitHub/RSI_Verifications/SRSBot"
