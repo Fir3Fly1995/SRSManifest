@@ -1,7 +1,5 @@
-2025-02-16 17:58:53
-launcher.py 2025-02-16 17:58:00
-launcher.spec 2025-02-16 17:58:06
+2025-02-16 23:28:01
+launcher.py 2025-02-16 23:23:48
+launcher.spec 2025-02-16 22:26:16
 SRSLogo.ico 2025-02-15 15:28:16
-updater.py 2025-02-15 16:52:56
-Verifier.py 2025-02-15 15:28:16
-dist\launcher.exe 2025-02-16 17:58:44
+dist\launcher.exe 2025-02-16 22:26:23
