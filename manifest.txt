@@ -1,8 +1,8 @@
-2025-02-16 01:17:20
+2025-02-16 01:29:17
 blankManifest.py 2025-02-15 21:48:00
 build the executables.py 2025-02-15 20:52:59
-launcher.py 2025-02-16 01:16:05
-launcher.spec 2025-02-16 01:16:12
+launcher.py 2025-02-16 01:26:23
+launcher.spec 2025-02-16 01:26:34
 SRSLogo.ico 2025-02-15 15:28:16
 Standalone_Updater.py 2025-02-16 01:14:54
 standalone_updater.spec 2025-02-16 01:14:58
@@ -4878,15 +4878,15 @@ Verifier.py 2025-02-15 15:28:16
 .venv\Scripts\pyinstaller.exe 2025-02-14 20:52:35
 .venv\Scripts\python.exe 2025-02-04 16:38:26
 .venv\Scripts\pythonw.exe 2025-02-04 16:38:26
-build\launcher\Analysis-00.toc 2025-02-16 01:16:21
-build\launcher\base_library.zip 2025-02-16 01:16:21
-build\launcher\EXE-00.toc 2025-02-16 01:16:39
-build\launcher\launcher.pkg 2025-02-16 01:16:24
-build\launcher\PKG-00.toc 2025-02-16 01:16:24
+build\launcher\Analysis-00.toc 2025-02-16 01:26:44
+build\launcher\base_library.zip 2025-02-16 01:26:43
+build\launcher\EXE-00.toc 2025-02-16 01:27:02
+build\launcher\launcher.pkg 2025-02-16 01:26:46
+build\launcher\PKG-00.toc 2025-02-16 01:26:46
 build\launcher\PYZ-00.pyz 2025-02-16 01:16:22
 build\launcher\PYZ-00.toc 2025-02-16 01:16:22
-build\launcher\warn-launcher.txt 2025-02-16 01:16:21
-build\launcher\xref-launcher.html 2025-02-16 01:16:21
+build\launcher\warn-launcher.txt 2025-02-16 01:26:44
+build\launcher\xref-launcher.html 2025-02-16 01:26:44
 build\launcher\localpycs\pyimod01_archive.pyc 2025-02-15 15:28:16
 build\launcher\localpycs\pyimod02_importers.pyc 2025-02-15 15:28:16
 build\launcher\localpycs\pyimod03_ctypes.pyc 2025-02-15 15:28:16
@@ -4906,7 +4906,7 @@ build\standalone_updater\localpycs\pyimod02_importers.pyc 2025-02-15 16:52:41
 build\standalone_updater\localpycs\pyimod03_ctypes.pyc 2025-02-15 16:52:41
 build\standalone_updater\localpycs\pyimod04_pywin32.pyc 2025-02-15 16:52:41
 build\standalone_updater\localpycs\struct.pyc 2025-02-15 16:52:41
-dist\launcher.exe 2025-02-16 01:16:39
+dist\launcher.exe 2025-02-16 01:27:02
 dist\SRSBotInstaller.iss 2025-02-16 00:14:30
 dist\standalone_updater.exe 2025-02-16 01:15:30
 Licencing & Instructions\GNU-AGPL Licence.txt 2025-02-15 15:28:10
