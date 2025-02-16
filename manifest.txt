@@ -1,9 +1,10 @@
-2025-02-16 13:52:37
+2025-02-16 15:01:59
 blankManifest.py 2025-02-15 21:48:00
 build the executables.py 2025-02-15 20:52:59
-first_run.txt 2025-02-16 13:26:24
-launcher.py 2025-02-16 13:37:33
-launcher.spec 2025-02-16 13:49:14
+first_install.py 2025-02-16 14:47:25
+first_install.spec 2025-02-16 14:56:20
+launcher.py 2025-02-16 14:24:38
+launcher.spec 2025-02-16 14:55:59
 SRSLogo.ico 2025-02-15 15:28:16
 Standalone_Updater.py 2025-02-16 13:49:08
 standalone_updater.spec 2025-02-16 13:50:06
@@ -4879,15 +4880,29 @@ Verifier.py 2025-02-15 15:28:16
 .venv\Scripts\pyinstaller.exe 2025-02-14 20:52:35
 .venv\Scripts\python.exe 2025-02-04 16:38:26
 .venv\Scripts\pythonw.exe 2025-02-04 16:38:26
-build\launcher\Analysis-00.toc 2025-02-16 13:49:36
-build\launcher\base_library.zip 2025-02-16 13:49:35
-build\launcher\EXE-00.toc 2025-02-16 13:49:59
-build\launcher\launcher.pkg 2025-02-16 13:49:38
-build\launcher\PKG-00.toc 2025-02-16 13:49:38
-build\launcher\PYZ-00.pyz 2025-02-16 11:45:50
-build\launcher\PYZ-00.toc 2025-02-16 11:45:50
-build\launcher\warn-launcher.txt 2025-02-16 13:49:36
-build\launcher\xref-launcher.html 2025-02-16 13:49:36
+build\first_install\Analysis-00.toc 2025-02-16 14:56:30
+build\first_install\base_library.zip 2025-02-16 14:56:29
+build\first_install\EXE-00.toc 2025-02-16 14:56:49
+build\first_install\first_install.pkg 2025-02-16 14:56:32
+build\first_install\PKG-00.toc 2025-02-16 14:56:32
+build\first_install\PYZ-00.pyz 2025-02-16 14:56:30
+build\first_install\PYZ-00.toc 2025-02-16 14:56:30
+build\first_install\warn-first_install.txt 2025-02-16 14:56:30
+build\first_install\xref-first_install.html 2025-02-16 14:56:30
+build\first_install\localpycs\pyimod01_archive.pyc 2025-02-16 14:47:45
+build\first_install\localpycs\pyimod02_importers.pyc 2025-02-16 14:47:45
+build\first_install\localpycs\pyimod03_ctypes.pyc 2025-02-16 14:47:45
+build\first_install\localpycs\pyimod04_pywin32.pyc 2025-02-16 14:47:45
+build\first_install\localpycs\struct.pyc 2025-02-16 14:47:45
+build\launcher\Analysis-00.toc 2025-02-16 14:24:53
+build\launcher\base_library.zip 2025-02-16 14:24:53
+build\launcher\EXE-00.toc 2025-02-16 14:25:09
+build\launcher\launcher.pkg 2025-02-16 14:24:55
+build\launcher\PKG-00.toc 2025-02-16 14:24:55
+build\launcher\PYZ-00.pyz 2025-02-16 14:24:53
+build\launcher\PYZ-00.toc 2025-02-16 14:24:53
+build\launcher\warn-launcher.txt 2025-02-16 14:24:53
+build\launcher\xref-launcher.html 2025-02-16 14:24:53
 build\launcher\localpycs\pyimod01_archive.pyc 2025-02-15 15:28:16
 build\launcher\localpycs\pyimod02_importers.pyc 2025-02-15 15:28:16
 build\launcher\localpycs\pyimod03_ctypes.pyc 2025-02-15 15:28:16
@@ -4907,8 +4922,9 @@ build\standalone_updater\localpycs\pyimod02_importers.pyc 2025-02-15 16:52:41
 build\standalone_updater\localpycs\pyimod03_ctypes.pyc 2025-02-15 16:52:41
 build\standalone_updater\localpycs\pyimod04_pywin32.pyc 2025-02-15 16:52:41
 build\standalone_updater\localpycs\struct.pyc 2025-02-15 16:52:41
-dist\launcher.exe 2025-02-16 13:49:59
-dist\SRSBotInstaller.iss 2025-02-16 13:35:09
+dist\first_install.exe 2025-02-16 14:56:49
+dist\launcher.exe 2025-02-16 14:25:09
+dist\SRSBotInstaller.iss 2025-02-16 14:59:15
 dist\standalone_updater.exe 2025-02-16 13:50:35
 Licencing & Instructions\GNU-AGPL Licence.txt 2025-02-15 15:28:10
 Licencing & Instructions\Instructions.txt 2025-02-15 15:28:10
@@ -13215,13 +13231,13 @@ Python\Lib\tkinter\__pycache__\constants.cpython-313.opt-2.pyc 2025-02-15 15:28:
 Python\Lib\tkinter\__pycache__\constants.cpython-313.pyc 2025-02-15 15:55:40
 Python\Lib\tkinter\__pycache__\dialog.cpython-313.opt-1.pyc 2025-02-15 15:28:15
 Python\Lib\tkinter\__pycache__\dialog.cpython-313.opt-2.pyc 2025-02-15 15:28:15
-Python\Lib\tkinter\__pycache__\dialog.cpython-313.pyc 2025-02-15 15:28:15
+Python\Lib\tkinter\__pycache__\dialog.cpython-313.pyc 2025-02-16 14:15:58
 Python\Lib\tkinter\__pycache__\dnd.cpython-313.opt-1.pyc 2025-02-15 15:28:15
 Python\Lib\tkinter\__pycache__\dnd.cpython-313.opt-2.pyc 2025-02-15 15:28:15
 Python\Lib\tkinter\__pycache__\dnd.cpython-313.pyc 2025-02-15 15:28:15
 Python\Lib\tkinter\__pycache__\filedialog.cpython-313.opt-1.pyc 2025-02-15 15:28:15
 Python\Lib\tkinter\__pycache__\filedialog.cpython-313.opt-2.pyc 2025-02-15 15:28:15
-Python\Lib\tkinter\__pycache__\filedialog.cpython-313.pyc 2025-02-15 15:28:15
+Python\Lib\tkinter\__pycache__\filedialog.cpython-313.pyc 2025-02-16 14:15:58
 Python\Lib\tkinter\__pycache__\font.cpython-313.opt-1.pyc 2025-02-15 15:28:15
 Python\Lib\tkinter\__pycache__\font.cpython-313.opt-2.pyc 2025-02-15 15:28:15
 Python\Lib\tkinter\__pycache__\font.cpython-313.pyc 2025-02-15 15:28:15
@@ -13233,10 +13249,10 @@ Python\Lib\tkinter\__pycache__\scrolledtext.cpython-313.opt-2.pyc 2025-02-15 15:
 Python\Lib\tkinter\__pycache__\scrolledtext.cpython-313.pyc 2025-02-15 18:26:18
 Python\Lib\tkinter\__pycache__\simpledialog.cpython-313.opt-1.pyc 2025-02-15 15:28:15
 Python\Lib\tkinter\__pycache__\simpledialog.cpython-313.opt-2.pyc 2025-02-15 15:28:15
-Python\Lib\tkinter\__pycache__\simpledialog.cpython-313.pyc 2025-02-15 15:28:15
+Python\Lib\tkinter\__pycache__\simpledialog.cpython-313.pyc 2025-02-16 14:15:58
 Python\Lib\tkinter\__pycache__\ttk.cpython-313.opt-1.pyc 2025-02-15 15:28:15
 Python\Lib\tkinter\__pycache__\ttk.cpython-313.opt-2.pyc 2025-02-15 15:28:15
-Python\Lib\tkinter\__pycache__\ttk.cpython-313.pyc 2025-02-15 15:28:15
+Python\Lib\tkinter\__pycache__\ttk.cpython-313.pyc 2025-02-16 14:19:07
 Python\Lib\tkinter\__pycache__\__init__.cpython-313.opt-1.pyc 2025-02-15 15:28:15
 Python\Lib\tkinter\__pycache__\__init__.cpython-313.opt-2.pyc 2025-02-15 15:28:15
 Python\Lib\tkinter\__pycache__\__init__.cpython-313.pyc 2025-02-15 15:55:40
