@@ -5,8 +5,8 @@ def generate_manifest(manifest_path):
     # Get the current date and time for the manifest header
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     
-    # Write the manifest file with only the timestamp
-    with open(manifest_path, "w") as manifest_file:
+    # Write the manifest file with UTF-8 encoding
+    with open(manifest_path, "w", encoding="utf-8") as manifest_file:
         manifest_file.write(current_time)
     
     print(f"Manifest file generated at {manifest_path}")
