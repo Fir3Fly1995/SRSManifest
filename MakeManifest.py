@@ -143,7 +143,7 @@ def read_manifest():
 
 # Function to read a plain text manifest file and populate the fields
 def read_plain_manifest():
-    manifest_path = os.path.expandvars(r"C:\Users\Alex Edwards\Documents\GitHub\Manifest\SRSManifest\blankManifest.txt")
+    manifest_path = os.path.expandvars(r"C:\Users\Alex Edwards\Documents\GitHub\Manifest\SRSManifest\Manifest.txt")
 
     if not os.path.exists(manifest_path):
         messagebox.showerror("Error", f"Plain text manifest file not found at {manifest_path}")
@@ -259,7 +259,7 @@ def write_all():
 # Create the main window
 root = tk.Tk()
 root.title("Make Manifest")
-root.geometry("560x300")
+root.geometry("560x400")
 
 # Create a notebook (tabbed interface)
 notebook = ttk.Notebook(root)
