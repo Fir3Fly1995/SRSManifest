@@ -1,0 +1,15 @@
+%Localappdata%\SRSBot
+    BotStuff
+        launcher.py
+        launcher.spec
+        launcher.exe
+        SRSBot_Launcher.bat
+        SRSLogo.ico
+        SRSBotV.py
+        SRSBotV.exe
+        SRSBotV.spec
+    Updater
+        Standalone_updater.exe
+        standalone_updater.spec
+        Standalone_Updater.py
+        manifest.txt
